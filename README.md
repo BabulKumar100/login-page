@@ -34,7 +34,7 @@ login-page/
 
 (ii) User can enter own Password in the input box of Password
 
-(iii) Finally, click on Login button although nothing will open as I have not added JavaScript  but it will give the fill of basic Login page "How it Works?".
+(iii) Finally, click on Login button although nothing will open as I have not added JavaScript logic to this project  but it will give the feel of basic Login page that "How it Works?".
 
 
  ## Technologies Used
