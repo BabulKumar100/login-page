@@ -14,9 +14,14 @@ This project is perfect for beginners learning front-end development and UI desi
 ##  Folder Structure
 
 login-page/
-├── login.html # Main HTML structure
-└── login.css # All styles for the login page
-
+├── login-page.html # Main HTML structure
+└── login-page.css # All styles for the login page
+├── images
+      ├──login-page-html.png
+      ├──login-page-css1.png
+      ├──login-page-css2.png
+      ├──login-page-UI.png
+      
 ##  Screenshot
 
 ![Screenshot](https://github.com/BabulKumar100/login-page/blob/498ec593ca3a39c0b1491cd4dbd7886a2081fb65/login-preview%201.png)
@@ -25,15 +30,12 @@ login-page/
 
 ## How to Use
 
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/BabulKumar100/login-page.git
+(i) User can entered own name in the input box of Username
 
-2. Open the folder:
+(ii) User can enter own Password in the input box of Password
 
-        cd login-page
+(iii) Finally, click on Login button although nothing will open as I have not added JavaScript  but it will give the fill of basic Login page "How it Works?".
 
-3. Open the index.html file in your browser.
 
  ## Technologies Used
 
